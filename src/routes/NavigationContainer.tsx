@@ -22,7 +22,7 @@ function NavigationContainer() {
     return (
         <SafeAreaView style={styles.container}>
             <NavContainer>
-                <AuthStack />
+                <AuthStack />  
             </NavContainer>
         </SafeAreaView>
     )
